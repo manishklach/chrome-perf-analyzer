@@ -1,5 +1,6 @@
-
 # chrome-perf-analyzer (Diagnostics + Raw Output Edition)
+
+## Turn Chrome DevTools output into engineering decisions.
 
 Analyzes Chrome DevTools traces and heap snapshots.
 
